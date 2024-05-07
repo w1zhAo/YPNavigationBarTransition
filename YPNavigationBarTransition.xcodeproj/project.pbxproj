@@ -44,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		20EB61732BEA2CE700CCF9C1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		20EB61742BEA2CF100CCF9C1 /* YPNavigationBarTransition.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = YPNavigationBarTransition.podspec; sourceTree = SOURCE_ROOT; };
 		917CA8B734106B8E544A7005 /* Pods-YPNavigationBarTransitionTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YPNavigationBarTransitionTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-YPNavigationBarTransitionTests/Pods-YPNavigationBarTransitionTests.debug.xcconfig"; sourceTree = "<group>"; };
 		A721C792468896088A036960 /* Pods_YPNavigationBarTransitionTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YPNavigationBarTransitionTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E816932A208FF77800244575 /* YPNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YPNavigationController.h; sourceTree = "<group>"; };
@@ -148,6 +150,8 @@
 				E8B064671FEFB7B9007332E8 /* UIImage+YPConfigure.h */,
 				E8B064681FEFB7B9007332E8 /* UIImage+YPConfigure.m */,
 				E8B064271FEF4FBC007332E8 /* Info.plist */,
+				20EB61732BEA2CE700CCF9C1 /* PrivacyInfo.xcprivacy */,
+				20EB61742BEA2CF100CCF9C1 /* YPNavigationBarTransition.podspec */,
 				E8B0647E1FF08B68007332E8 /* internal */,
 			);
 			path = YPNavigationBarTransition;
